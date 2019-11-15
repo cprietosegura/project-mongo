@@ -1,0 +1,5 @@
+Empresas de menos de diez años, que no se hayan ido a la quiebra:
+{$and:[{founded_year:{$gt:2009}},{'deadpooled_year':null}]}
+
+projection:{category_code:1}
+
