@@ -24,4 +24,6 @@ En la carpeta filtros se hayan los jupyter notebooks con los que he realizado la
 
 En input se pueden entontrar los diferentes datasets con los que he trabajado. 
 
-![alt text](https://github.com/cprietosegura/project-mongo/blob/master/Our%20company.jpg)
+En output se puede ver una imagen de la localización de nuestra oficina y los venues de su entorno.
+
+![alt text](https://github.com/cprietosegura/project-mongo/blob/master/output/Our%20company.jpg)
