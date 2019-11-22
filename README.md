@@ -23,3 +23,5 @@ En el archivo main están las geoqueries y el mapa con la localización final de
 En la carpeta filtros se hayan los jupyter notebooks con los que he realizado la primera query a través de pymongo y las requests a la API, así como un dataset de aeropuertos que finalmente no he podido incorporar a la parte final del proyecto.
 
 En input se pueden entontrar los diferentes datasets con los que he trabajado. 
+
+![alt text](https://github.com/cprietosegura/project-mongo/blob/master/Our%20company.jpg)
